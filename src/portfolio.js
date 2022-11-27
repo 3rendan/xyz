@@ -10,7 +10,7 @@ const about = {
   role: 'Front End Engineer',
   description:
     'Software developer fluent in Ruby on Rails, Javascript, React, Git, Node.js, Express, and Electron eager to continue a career in the field. I worked at Visible Body on an educational web app based in Ruby on Rails. I was a professional librarian for over a decade, working in academic, public, and special interest libraries. Throughout this career, I incorporated software development in my work whenever possible, building mobile websites, digital collections archives, ebook archives of scholarly materials, and other digital tools to improve workflow. I really enjoyed this work and wrote a book about ebooks and tablets. I viewed it as an extension of library work, organizing information to present it. When the opportunity presented itself to learn coding professionally, I jumped at the chance. I wanted a new challenge and General Assembly provided the perfect program in software engineering that I could complete on a part-time basis remotely while continuing to work full-time as a librarian. After completing this program and gaining a foundation in JavaScript, React, Ruby on Rails, Git, and other languages ',
-  resume: 'https://drive.google.com/file/d/1yHCEsZnIDlbHSmSdYQuSfR9NNcCOj3Be/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1dEQx0dT3Y6RimdfnpMAG9KtX-MIP0k91/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/brendan-r-ryan',
     github: 'https://github.com/3rendan',
