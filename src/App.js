@@ -20,11 +20,10 @@ const App = () => {
         <About />
         <Projects />
         <Skills />
-        <Contact />
       </main>
 
       <ScrollToTop />
-      <Footer />
+      <Contact />
     </div>
   )
 }
