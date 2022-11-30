@@ -21,20 +21,25 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Skeumorph',
-    description:
-      'Electron app based on React.js for organinzing digital collections.',
-    stack: ['Electron', 'Ruby on Rails', 'React'],
-    sourceCode: 'https://github.com/3rendan/skeuomorph',
-    livePreview: '',
-  },
-  {
     name: 'ATH | SPA',
     description:
       'A React.js single page application using the API from http://digital.provath.org/api to display the art collection of the Providence Athenaeum available at dpa.brendanryan.xyz. Now updated to use ContextAPI and custom hooks to pull data from the API and populate the state. The project is presently being revised to incorporate SASS styling. Throughout the process of instituting new styles the focus will be on making the project more responsive to different screen sizes.',
     stack: ['ContextAPI', 'SASS', 'React', 'API'],
     sourceCode: 'https://github.com/3rendan/ATHtest',
     livePreview: 'http://dpa.brendanryan.xyz',
+  },
+]
+
+const smallProjects = [
+  // SmallProjects can be added an removed
+  // if there are no projects, SmallProjects section won't show up
+  {
+    name: 'Skeumorph',
+    description:
+      'Electron app based on React.js for organinzing digital collections.',
+    stack: ['Electron', 'Ruby on Rails', 'React'],
+    sourceCode: 'https://github.com/3rendan/skeuomorph',
+    livePreview: '',
   },
   {
     name: 'MODS Expanded',
@@ -68,5 +73,5 @@ const contact = {
   email: 'brendan.ryan@pm.me',
 }
 
-export { header, about, projects, skills, contact }
+export { header, about, projects, smallProjects, skills, contact }
 
