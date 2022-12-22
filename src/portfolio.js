@@ -43,14 +43,6 @@ const smallProjects = [
     livePreview: 'http://hm.brendanryan.xyz',
   },
   {
-    name: 'Skeumorph',
-    description:
-      'Electron app based on React.js for organinzing digital collections.',
-    stack: ['Electron', 'Ruby on Rails', 'React'],
-    sourceCode: 'https://github.com/3rendan/skeuomorph',
-    livePreview: '',
-  },
-  {
     name: 'MODS Expanded',
     description:
       'A MODS metadata plugin for Omeka with the full complement of categories as used by the Digital Commonwealth. The live preview links to the page the project is deployed in.',

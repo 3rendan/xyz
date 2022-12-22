@@ -4,6 +4,11 @@
   text-align: center;
   box-shadow: var(--shadow);
   transition: transform 0.2s linear;
+  background-color: var(--clr-bg-alt);
+  color: var(--clr-bg);
+}
+.project h3 {
+  color: #feffea;
 }
 
 .project:hover {
