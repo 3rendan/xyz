@@ -20,6 +20,12 @@ const about = {
 const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
+  
+]
+
+const smallProjects = [
+  // SmallProjects can be added an removed
+  // if there are no projects, SmallProjects section won't show up
   {
     name: 'ATH | SPA',
     description:
@@ -28,11 +34,14 @@ const projects = [
     sourceCode: 'https://github.com/3rendan/ATHtest',
     livePreview: 'http://dpa.brendanryan.xyz',
   },
-]
-
-const smallProjects = [
-  // SmallProjects can be added an removed
-  // if there are no projects, SmallProjects section won't show up
+  {
+    name: 'House Marketplace',
+    description:
+      'A React.js single page application using Google Firebase to collect and store data, featuring Google SSO. Deployed with Vercel.',
+    stack: ['Federated SSO', 'Google Firebase', 'React', 'Geolocation'],
+    sourceCode: 'https://github.com/3rendan/house-marketplace',
+    livePreview: 'http://hm.brendanryan.xyz',
+  },
   {
     name: 'Skeumorph',
     description:
